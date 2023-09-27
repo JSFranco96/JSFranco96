@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Franco</h1>
 <h3 align="center">A passionate fullstack developer from Medellín, Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsfranco96&label=Profile%20views&color=0e75b6&style=flat" alt="jsfranco96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsfranco96" alt="jsfranco96" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsfranco96" alt="jsfranco96" /></a> </p>
 
 - 🌱 I’m currently learning **Python, NestJS and AWS DevOps**
 
