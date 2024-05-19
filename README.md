@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Javier Franco</h1>
 <h3 align="center">A passionate fullstack developer from Medellín, Colombia</h3>
 <!-- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsfranco96" alt="jsfranco96" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsfranco96" alt="jsfranco96" /></a> </p> 
+-->
 
+<!--
 <p align="center">
 ● 🌱 I’m currently learning <b>Python, NestJS and AWS DevOps</b>
 </p>
+-->
 
 <p align="center">
 ● 📫 How to reach me <b>javierfranco0904@gmail.com</b>
