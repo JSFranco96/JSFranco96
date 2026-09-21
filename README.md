@@ -1,25 +1,22 @@
-<h1 align="center">Hi 👋, I'm Javier Franco</h1>
-<h3 align="center">A passionate fullstack developer from Medellín, Colombia</h3>
-<!-- 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jsfranco96" alt="jsfranco96" /></a> </p> 
--->
+# Hola, soy Javier
 
-<!--
-<p align="center">
-● 🌱 I’m currently learning <b>Python, NestJS and AWS DevOps</b>
-</p>
--->
+**Full-Stack Developer** en Medellín, Colombia, con más de 9 años construyendo aplicaciones web de punta a punta.
 
-<p align="center">
-● 📫 How to reach me <b>javierfranco0904@gmail.com</b>
-</p>
+Trabajo principalmente con **Angular**, **Node.js** y **TypeScript**, sobre **MongoDB** y **AWS**. Casi todo mi trabajo profesional (sistemas de logística e inventarios, ERP y plataformas de e-commerce a la medida) lo hice para empresas, así que vive en repositorios privados. Lo que ves aquí son proyectos personales.
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/javier-steven-franco-ospina-279029142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javier steven franco ospina" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Angular · TypeScript · JavaScript · Node.js · NestJS · MongoDB · AWS (S3, EC2, Lambda) · Firebase · Docker · Git y GitHub · Angular Material · PrimeNG
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsfranco96&show_icons=true&locale=en&" alt="jsfranco96" /></p>
+Ahora estoy empezando con desarrollo móvil nativo (Swift y Kotlin).
+
+## Proyectos públicos
+
+- **[catalogue_api](https://github.com/JSFranco96/catalogue_api)**: API REST de un catálogo de productos con Express, TypeScript y MongoDB (Mongoose). Guarda las imágenes en Amazon S3 y las entrega con URLs prefirmadas.
+- **[catalogue_client](https://github.com/JSFranco96/catalogue_client)**: interfaz en Angular 16 y PrimeNG para administrar ese catálogo. Incluye Dockerfile con nginx.
+
+## Contacto
+
+- Portafolio: [jsfranco.dev](https://jsfranco.dev)
+- LinkedIn: [linkedin.com/in/jsfranco-dev](https://www.linkedin.com/in/jsfranco-dev)
+- Email: javierfranco0904@gmail.com
