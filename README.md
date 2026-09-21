@@ -1,22 +1,15 @@
 # Hola, soy Javier
 
-**Full-Stack Developer** en Medellín, Colombia, con más de 9 años construyendo aplicaciones web de punta a punta.
+Full-Stack Developer en Medellín, Colombia. Construyo aplicaciones web con Angular, Node.js y TypeScript, sobre MongoDB y AWS.
 
-Trabajo principalmente con **Angular**, **Node.js** y **TypeScript**, sobre **MongoDB** y **AWS**. Casi todo mi trabajo profesional (sistemas de logística e inventarios, ERP y plataformas de e-commerce a la medida) lo hice para empresas, así que vive en repositorios privados. Lo que ves aquí son proyectos personales.
+Mi trabajo profesional es para empresas y vive en repositorios privados; aquí hay proyectos personales.
 
-## Stack
+## Proyectos
 
-Angular · TypeScript · JavaScript · Node.js · NestJS · MongoDB · AWS (S3, EC2, Lambda) · Firebase · Docker · Git y GitHub · Angular Material · PrimeNG
-
-Ahora estoy empezando con desarrollo móvil nativo (Swift y Kotlin).
-
-## Proyectos públicos
-
-- **[catalogue_api](https://github.com/JSFranco96/catalogue_api)**: API REST de un catálogo de productos con Express, TypeScript y MongoDB (Mongoose). Guarda las imágenes en Amazon S3 y las entrega con URLs prefirmadas.
-- **[catalogue_client](https://github.com/JSFranco96/catalogue_client)**: interfaz en Angular 16 y PrimeNG para administrar ese catálogo. Incluye Dockerfile con nginx.
+- **[jsfranco-dev](https://github.com/JSFranco96/jsfranco-dev)**: mi portafolio, hecho con Astro, Tailwind y Firebase.
+- **[catalogue_api](https://github.com/JSFranco96/catalogue_api)**: API REST de un catálogo de productos con Express, MongoDB y Amazon S3.
+- **[catalogue_client](https://github.com/JSFranco96/catalogue_client)**: interfaz en Angular y PrimeNG para ese catálogo.
 
 ## Contacto
 
-- Portafolio: [jsfranco.dev](https://jsfranco.dev)
-- LinkedIn: [linkedin.com/in/jsfranco-dev](https://www.linkedin.com/in/jsfranco-dev)
-- Email: javierfranco0904@gmail.com
+[jsfranco.dev](https://jsfranco.dev) · [LinkedIn](https://www.linkedin.com/in/jsfranco-dev) · javierfranco0904@gmail.com
